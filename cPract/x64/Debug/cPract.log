@@ -1,0 +1,4 @@
+﻿  cPract.cpp
+C:\Users\efimandreev0\source\repos\cPract\cPract\cPract.cpp(79,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\efimandreev0\source\repos\cPract\cPract\cPract.cpp(84,23): warning C4018: <: несоответствие типов со знаком и без знака
+  cPract.vcxproj -> C:\Users\efimandreev0\source\repos\cPract\x64\Debug\cPract.exe
